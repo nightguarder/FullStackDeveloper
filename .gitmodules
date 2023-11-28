@@ -1,0 +1,6 @@
+[submodule "FullDevLekce1"]
+	path = FullDevLekce1
+	url = https://github.com/nightguarder/FullDevLekce1.git
+[submodule "guestbook-app-local"]
+	path = guestbook-app-local
+	url = https://github.com/nightguarder/guestbook-app-local.git
