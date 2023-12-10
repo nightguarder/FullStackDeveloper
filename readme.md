@@ -42,7 +42,7 @@ Jak vymodelovat funkční API
 —> Token-based autentizace detailně
 —> Role-based autorizace
  
-- [ ] Úkol: JWT token Auth.
+- [x] Úkol: JWT token Auth.
   
 ## Lekce 5 Úterý 12. 12. 2023 [Repo]()
 Optimalizace front-end a back-end komunikace
