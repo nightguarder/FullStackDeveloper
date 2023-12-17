@@ -16,3 +16,6 @@
 [submodule "FullDevLekce4"]
 	path = FullDevLekce4
 	url = git@github.com:nightguarder/FullDevLekce4.git
+[submodule "FullDevLekce6"]
+	path = FullDevLekce6
+	url = git@github.com:nightguarder/FullDevLekce6.git
