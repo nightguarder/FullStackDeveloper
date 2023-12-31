@@ -56,7 +56,7 @@ Optimalizace front-end a back-end komunikace
  
 - [ ] Úkol: Nastavení CORS zabezpečení do naší express.js aplikace.
   
-## Lekce 6 Čtvrtek 14. 12. 2023 [Repo]()
+## Lekce 6 Čtvrtek 14. 12. 2023 [Repo](https://github.com/nightguarder/FullDevLekce6)
  Optimalizace front-end a back-end komunikace II
 
 —> Websockets
@@ -64,15 +64,16 @@ Optimalizace front-end a back-end komunikace
 —> Upload souborů
 —> Statický obsah
  
-- [ ] Úkol: Upload souboru.
+- [x] Úkol: Upload souboru.
 
-## Lekce 7 Úterý, 19. 12. 2023 [Repo]()
+## Lekce 7 Úterý, 19. 12. 2023 [Repo](https://github.com/nightguarder/FullDevLekce7)
 Jak správně ukládat data
 
 —> Kde se data ukládají na front-endu a kde na back-endu
 —> Filesystém
 —> Object Storage
-
+- [x] S3 File Upload pomocí AWS a ExpressJS
+      
 ## Lekce 8 Čtvrtek, 21. 12. 2023, 17:30-19:00
 Jak vybrat a ovládnout databázi
 
