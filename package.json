@@ -6,16 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "workspaces": [
-    "FullDevLekce1",
-    "FullDevLekce2",
-    "FullDevLekce3",
-    "FullDevLekce4",
-    "FullDevLekce5",
-    "FullDevLekce6",
-    "FullDevLekce7",
-    "guestbook-app-local"
-],
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
