@@ -1,0 +1,28 @@
+{
+  "name": "RobotDreams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "FullDevLekce1",
+    "FullDevLekce2",
+    "FullDevLekce3",
+    "FullDevLekce4",
+    "FullDevLekce5",
+    "FullDevLekce6",
+    "FullDevLekce7",
+    "guestbook-app-local"
+],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
