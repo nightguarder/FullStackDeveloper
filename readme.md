@@ -54,7 +54,7 @@ Optimalizace front-end a back-end komunikace
 —> Server proxy (Back-end-for-Front-end, BFF)
 —> Retry, Timeout a Error Handling best practises
  
-- [ ] Úkol: Nastavení CORS zabezpečení do naší express.js aplikace.
+- [x] Úkol: Nastavení CORS zabezpečení do naší express.js aplikace.
   
 ## Lekce 6 Čtvrtek 14. 12. 2023 [Repo](https://github.com/nightguarder/FullDevLekce6)
  Optimalizace front-end a back-end komunikace II
@@ -74,7 +74,7 @@ Jak správně ukládat data
 —> Object Storage
 - [x] S3 File Upload pomocí AWS a ExpressJS
       
-## Lekce 8 Čtvrtek, 21. 12. 2023, 17:30-19:00
+## Lekce 8 Čtvrtek, 21. 12. 2023[Repo](https://github.com/nightguarder/FullDevLekce8.git)
 Jak vybrat a ovládnout databázi
 
 —> Přehled databází
@@ -83,9 +83,9 @@ Jak vybrat a ovládnout databázi
 —> Verzování databáze a migrace
 —> Úvod SQL
  
-- [ ] Vytvoření schématu v relační databázi
+- [x] Vytvoření schématu v relační databázi
   
-## Lekce 9 Úterý, 2. 1. 2024 [Repo]()
+## Lekce 9 Úterý, 2. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce9.git)
 Práce s SQL: CRUD a JOIN
 
 —> CRUD (Create, Read, Update, Delete) operace v SQL
@@ -93,15 +93,15 @@ Práce s SQL: CRUD a JOIN
 —> ORM a Query Builder
 —> Transakce
  
-- [ ] Implementace CRUD API operací v SQL databázi.
+- [x] Implementace CRUD API operací v SQL databázi.
   
-## Lekce 10 Čtvrtek, 4. 1. 2024 [Repo]()
+## Lekce 10 Čtvrtek, 4. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce10.git)
 Průvodce NoSQL: MongoDB vs. Redis
 
 —> Dokumentově orientovaná databáze MongoDB
 —> Redis
 
-## Lekce 11 Úterý, 9. 1. 2024 [Repo]()
+## Lekce 11 Úterý, 9. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce11.git)
 Docker praxi: Kontejnery, repository, Swarm
 
 —> Co je kontejner, jak funguje Docker
@@ -110,7 +110,8 @@ Docker praxi: Kontejnery, repository, Swarm
 —> Docker Swarm, Kubernetes
  
 - [ ] Úkol: Dockerizace Express.js aplikace.
-Lekce 12 Čtvrtek, 11. 1. 2024, 17:30-19:00
+
+## Lekce 12 Čtvrtek, 11. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce12.git)
 Konfigurace a Deployment: Jak na CI/CD
 
 —> CI/CD
@@ -119,7 +120,7 @@ Konfigurace a Deployment: Jak na CI/CD
  
 - [ ] Úkol: Nastavení CI/CD pomocí GitHub Actions.
 
-## Lekce 13 Úterý, 16. 1. 2024 [Repo]()
+## Lekce 13 Úterý, 16. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce13.git)
 Odhalování chyb: Debug a logování
 
 —> Jaké chyby se vyskytují na front-endu vs. back-endu
@@ -128,7 +129,7 @@ Odhalování chyb: Debug a logování
  
 - [ ] Úkol: Nastavení logovaní v aplikaci a vytvoření unit testu pro zvolenou metodu v aplikaci.
       
-## Lekce 14 Čtvrtek, 18. 1. 2024 [Repo]()
+## Lekce 14 Čtvrtek, 18. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce14.git)
 Optimalizace výkonu
 
 —> Cachování
