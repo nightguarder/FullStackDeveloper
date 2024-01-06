@@ -160,3 +160,11 @@ Backendová architektura
 - add npm run dev to package.json Scripts. 
 .env
 PORT=3000
+
+## Managing this repo 
+
+1. Create new repository at: [Github new](https://github.com/new)
+2. Copy SSH ``git@github.com:nightguarder/New repository.git``
+3. Clone repo in local ```git clone git@github.com:nightguarder/New repository.git```
+4. add Submodule to ```git submodule add git@github.com:nightguarder/New repository.git```
+5. Code!
