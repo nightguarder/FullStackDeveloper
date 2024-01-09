@@ -28,6 +28,3 @@
 [submodule "FullDevLekce9"]
 	path = FullDevLekce9
 	url = git@github.com:nightguarder/FullDevLekce9.git
-[submodule "FullDevLekce10"]
-	path = FullDevLekce10
-	url = git@github.com:nightguarder/FullDevLekce10.git
