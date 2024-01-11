@@ -8,7 +8,7 @@ Public repo to store all of my projects from Full-Stack Developer course by Robo
 ![Course Image](fullstackdeveloper.png)
 
 __Výstup z kurzu:__
--->[FullStack Web App](git@github.com:nightguarder/DreamBlogger.git)
+--> [FullStack Web App]([git@github.com:nightguarder/DreamBlogger.git](https://github.com/nightguarder/DreamBlogger.git))
 
 # Program
 
