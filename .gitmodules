@@ -35,3 +35,6 @@
 [submodule "FullDevLekce12"]
 	path = FullDevLekce12
 	url = git@github.com:nightguarder/FullDevLekce12.git
+[submodule "DreamBlogger"]
+	path = DreamBlogger
+	url = git@github.com:nightguarder/DreamBlogger.git
