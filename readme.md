@@ -6,6 +6,8 @@ Public repo to store all of my projects from Full-Stack Developer course by Robo
 —> [Robot Dreams](https://robotdreams.cz/course/95-full-stack-developer)
 
 ![Course Image](fullstackdeveloper.png)
+
+-->[FullStack Web App]()
 # Program
 
 ## Full Stack Developer: První krůčky a nástroje [Repo](https://github.com/nightguarder/FullDevLekce1.git)
@@ -109,7 +111,7 @@ Docker praxi: Kontejnery, repository, Swarm
 —> Docker Hub nebo jiné repository
 —> Docker Swarm, Kubernetes
  
-- [ ] Úkol: Dockerizace Express.js aplikace.
+- [x] Úkol: Dockerizace Express.js aplikace.
 
 ## Lekce 12 Čtvrtek, 11. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce12.git)
 Konfigurace a Deployment: Jak na CI/CD
