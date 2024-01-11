@@ -10,7 +10,7 @@ Public repo to store all of my projects from Full-Stack Developer course by Robo
 __Výstup z kurzu:__
 
 -> [FullStack Web App](https://github.com/nightguarder/DreamBlogger.git)
-
+*//Add Schema later.*
 # Program
 
 ## Full Stack Developer: První krůčky a nástroje [Repo](https://github.com/nightguarder/FullDevLekce1.git)
