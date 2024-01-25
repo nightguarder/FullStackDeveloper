@@ -38,3 +38,6 @@
 [submodule "DreamBlogger"]
 	path = DreamBlogger
 	url = git@github.com:nightguarder/DreamBlogger.git
+[submodule "RobotDreams"]
+	path = RobotDreams
+	url = git@github.com:nightguarder/RobotDreams.git
