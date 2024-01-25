@@ -125,14 +125,14 @@ Konfigurace a Deployment: Jak na CI/CD
  
 - [ ] Úkol: Nastavení CI/CD pomocí GitHub Actions.
 
-## Lekce 13 Úterý, 16. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce13.git)
+## Lekce 13 Úterý, 16. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce14.git)
 Odhalování chyb: Debug a logování
 
 —> Jaké chyby se vyskytují na front-endu vs. back-endu
 —> Logování, log levely, best practises
 —> Unit testy
  
-- [ ] Úkol: Nastavení logovaní v aplikaci a vytvoření unit testu pro zvolenou metodu v aplikaci.
+- [x] Úkol: Nastavení logovaní v aplikaci a vytvoření unit testu pro zvolenou metodu v aplikaci.
       
 ## Lekce 14 Čtvrtek, 18. 1. 2024 [Repo](https://github.com/nightguarder/FullDevLekce14.git)
 Optimalizace výkonu
