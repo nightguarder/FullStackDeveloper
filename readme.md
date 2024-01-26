@@ -11,7 +11,7 @@ __Výstup z kurzu:__
 
 -> [FullStack Web App](https://github.com/nightguarder/DreamBlogger.git)
 
-![FullStack schema](public/fullschema2.png)
+![FullStack schema](fullschema2.png)
 
 # Program
 
