@@ -43,3 +43,6 @@
 	path = RobotDreams
 	url = git@github.com:nightguarder/RobotDreams.git
 
+[submodule "FullDevLekce14"]
+	path = FullDevLekce14
+	url = git@github.com:nightguarder/FullDevLekce14.git
