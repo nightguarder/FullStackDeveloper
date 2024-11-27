@@ -1,5 +1,5 @@
 
-## Robot Dreams
+## Full Stack Developer by RobotDreams
 
 Public repo to store all of my projects from Full-Stack Developer course mentored by Senior SW Developer [Rostislav Jadavan](https://rostislavjadavan.com), who has 11 years of experience in designing and developing backend software systems at Avast. 
 
